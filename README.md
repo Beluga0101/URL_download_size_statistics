@@ -24,7 +24,7 @@
 
 ## 使用方法
 
-在同一目录下创建一个名为urls.txt的文件，每行一个URL。然后运行脚本：
+在同一目录下创建一个名为urls.txt的文件，每行一个URL（示例文件在example_urls.txt）。然后运行脚本：
    ```bash
    python URL_download_size_statistics.py
 脚本将输出每个URL的大小，并在最后输出所有URL的总大小。
